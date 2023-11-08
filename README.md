@@ -6,7 +6,7 @@
 - Collaborated with a team of fellow cybersecurity enthusiasts to tackle a variety of real-world security scenarios and puzzles.
 - Gained practical experience in offensive and defensive cybersecurity techniques, enhancing knowledge in areas such as penetration testing, forensic analysis, and vulnerability assessment.
 
-**Problems Solved:**
+## **Problems Solved:**
 - PAS50 "Crack That Zip" (Misc.)
 - WEB50 "Web Based Calculator" (Web)
 - MSC100 "Hodor?" (Misc.)
@@ -33,4 +33,4 @@ STE200 "Find The Hidden Message" (Misc.):
 Description: Successfully located a hidden message concealed within a paragraph of random word strings, showcasing proficiency in data analysis and pattern recognition.
 Skills Demonstrated: Data Analysis, Pattern Recognition, Cryptanalysis
 
-https://sites.gatech.edu/cybercup/
+## https://sites.gatech.edu/cybercup/
